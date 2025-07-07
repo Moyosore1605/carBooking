@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@import '@fontsource/encode-sans-condensed';
+
+body{
+    font-family:'Encode Sans Condensed',sans-serif;
+}
+.bg-green{
+    background-color:#007D48;
+}
